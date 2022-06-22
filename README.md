@@ -1,2 +1,2 @@
 # Javascrsipt
-All things related to Javascript
+All things related to JS. Big projects may be in other repositories.
